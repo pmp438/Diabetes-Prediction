@@ -7,7 +7,6 @@
   * [Learning Objective](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
 
@@ -19,7 +18,7 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 
 ### Motivation
-The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [Heroku]() and offcourse this "
+The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [PythonAnywhere]() and offcourse this "
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not." 
 
 
@@ -36,19 +35,17 @@ The following points were the objective of the project
 ### Technical Aspect 
 
 - Training a machine learning model using scikit-learn. 
-- Building and hosting a Flask web app on Heroku. 
+- Building and hosting a Flask web app on PythonAnywhere. 
 - A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc . 
 - Once it get all the fields information , the prediction is displyed on a new page . 
 
 ### Technologies Used  
-![](https://forthebadge.com/images/badges/made-with-python.svg) 
-
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
-<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/pandas.jpeg" width=170>
-
+-Python
+-Flask
+-Numpy
+-Pandas
+-Sk-Learn
+-HTML
 
 ### Installation 
 - Clone this repository and unzip it.
